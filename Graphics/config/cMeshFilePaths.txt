@@ -1,0 +1,7 @@
+assets/models/skeletonSample.ply
+assets/models/golden_columnXYZ_n.ply
+assets/models/candleHolderXYZ_n.ply
+assets/models/cowXYZ_n.ply
+assets/models/terrainLittleRugXYZ_n.ply
+assets/models/Halloween_PumpkinXYZ_n.ply
+assets/models/Anno_UrnXYZ_n.ply

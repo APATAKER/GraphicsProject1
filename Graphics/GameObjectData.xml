@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameObjectData>
+
+  <GameObject name="candle1" id="1">
+    <meshname>candle</meshname>
+    <positionX>30.0</positionX>
+    <positionY>40.0</positionY>
+    <positionZ>10.0</positionZ>
+    <rotationX>0.0</rotationX>
+    <rotationY>0.0</rotationY>
+    <rotationZ>0.0</rotationZ>
+    <scale>3.0</scale>
+    <objectColorR>1.0</objectColorR>
+    <objectColorG>1.0</objectColorG>
+    <objectColorB>1.0</objectColorB>
+    <inverseMass>0.0</inverseMass>
+    <wireframe>false</wireframe>
+  </GameObject>
+</GameObjectData>

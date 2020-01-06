@@ -1,0 +1,13 @@
+GameObject terrain FriendlyName terrain Position 0 0 0 Rotation 0 0 0 Scale 1 Color 0.1607 0.0196 0.6705 Wireframe 0
+GameObject pillar FriendlyName pillar1 Position 120 42 -124 Rotation 0 0 0 Scale 0.1 Color 1 1 1 Wireframe 0
+GameObject pillar FriendlyName pillar2 Position -122 42 -120 Rotation 0 1.5 0 Scale 0.1 Color 0 0 1 Wireframe 0
+GameObject pillar FriendlyName pillar3 Position -124 42 124 Rotation 0 2.7 0 Scale 0.1 Color 0 1 0 Wireframe 0
+GameObject pillar FriendlyName pillar4 Position 124 42 122 Rotation 0 -1.6 0 Scale 0.1 Color 1 0 0 Wireframe 0
+GameObject pumpkin FriendlyName pumpkin Position 50 40 10 Rotation 0 0 0 Scale 5 Color 1 0.65 0 Wireframe 0
+GameObject candle FriendlyName candle1 Position 45 40 10 Rotation 0 0 0 Scale 5 Color 1 1 1 Wireframe 0
+GameObject candle FriendlyName candle2 Position 55 40 10 Rotation 0 0 0 Scale 5 Color 1 1 1 Wireframe 0
+GameObject skeleton FriendlyName skeleton Position 49 16 48 Rotation 0 3.1 0 Scale 1 Color 1 1 1 Wireframe 0
+GameObject cow FriendlyName cow Position 48 10 28 Rotation 0 -1.5 0 Scale 1 Color 1 1 0 Wireframe 0
+GameObject urn FriendlyName urn Position -110 20 -12 Rotation 0 1.4 0 Scale 0.1 Color 1 1 1 Wireframe 0
+GameObject urn FriendlyName urn2 Position 100 20 -12 Rotation 0 1.4 0 Scale 0.1 Color 1 1 1 Wireframe 0
+end
